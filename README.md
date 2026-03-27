@@ -14,14 +14,14 @@
 - **DevOps:** Docker, GitHub Actions, Render
 
 ## 🚀 Getting Started
-\```bash
-git clone https://github.com/YOUR_USERNAME/smart-log-analyzer.git
+```bash
+git clone https://github.com/muskanv26/smart-log-analyzer.git
 cd smart-log-analyzer
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
 cp .env.example .env
-\```
+```
 
 ## 📌 Project Status
 🔨 Phase 1 — Foundation ✅
